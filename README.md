@@ -9,12 +9,12 @@ CSS
 
 
 ### Backend
-_**API:**_
+***API:***
 NodeJS
 ExpressJS
 
-**Database:**
+***Database:***
 MongoDB
 
-**Payments:**
+***Payments:***
 Stripe
